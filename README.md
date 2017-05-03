@@ -13,6 +13,9 @@ FindDigitsinRawText is a simple WPF which is able to extract digits from txt fil
 |      |       |
 |      |   ____|   
 ```
+# Expected Output
+
+3 2 1 4 5 1 4 5 
 
 # The input file are stored in directory 
 
