@@ -34,9 +34,7 @@ FindDigitsinRawText is a simple WPF which is able to extract digits from txt fil
 
   - Import a txt  file by just clicking a button and watch it magically convert to digits
  
-
-You can also:
-  - Modify the txt  files
+ Any digit should have 4 parts: { Top, TopMiddle,BottomMiddle,Bottom}
 
 ```csharp
 public class Digit
