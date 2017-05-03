@@ -1,5 +1,22 @@
 # FindDigitsinRawText
 
+#Task
+
+In the attached text file, numbers (3, 2, 1, 4, 5) are encoded with horizontal and vertical bars.
+
+#Task:
+
+Create a program  that reads the text file, recognizes the numbers, and displays them on the screen. 
+The spacing (number of spaces) between the individual numbers is not always uniform because the file is created manually. 
+Therefore, if necessary, these could be adapted to simplify the task.
+
+
+
+Objectives:
+1. Structuring the program so that a developer team of several people can work on it at the same time.
+2. Individual modules must be independent, interchangeable and well-tested.
+ 
+
 
 FindDigitsinRawText is a simple WPF which is able to extract digits from txt file.
 
